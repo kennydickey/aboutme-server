@@ -33,6 +33,13 @@ body {
 	line-height: 1;
 }
 
+#movie{
+	height:200px;
+    width:100%;
+		overflow:hidden;
+		margin-bottom: 0;
+}
+
 ol, ul {
 	list-style: none;
 }
